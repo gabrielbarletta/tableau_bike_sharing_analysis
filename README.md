@@ -17,10 +17,10 @@ The above map shows where the trips have been started. The most populated area o
 The heat map help us demonstastre weekly using patterns. The patterns indicate the heavy bike usage during weekday commute times, and weekend usage thorught the whole day. 
 
 <img width="1006" alt="Screen Shot 2022-02-06 at 9 32 06 PM" src="https://user-images.githubusercontent.com/92552837/152717331-e20bca35-e4bd-4888-bc95-1653c076fb6b.png">
-This graph shows us that the trips are under 1 hour in lenght. 
+This graph shows us that the trips are under 1 hour in length. 
 
 <img width="1002" alt="Screen Shot 2022-02-06 at 9 33 07 PM" src="https://user-images.githubusercontent.com/92552837/152717439-2fdc258c-f2d0-40e2-988c-0443d2f9a0ac.png">
 This breakdown the number of rides by duration and gender. We can see a huge gap between male and female riders. 
 
 <img width="1056" alt="Screen Shot 2022-02-06 at 9 33 18 PM" src="https://user-images.githubusercontent.com/92552837/152717591-98b17956-5767-49a8-b3f3-2dcf0f1cf825.png">
-This heatmaps make its more apparent how many more rides are taken by male subscribers users. 
+This heatmaps make it more apparent how many more rides are taken by male subscribers users. 
