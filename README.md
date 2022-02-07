@@ -24,3 +24,10 @@ This breakdown the number of rides by duration and gender. We can see a huge gap
 
 <img width="1056" alt="Screen Shot 2022-02-06 at 9 33 18 PM" src="https://user-images.githubusercontent.com/92552837/152717591-98b17956-5767-49a8-b3f3-2dcf0f1cf825.png">
 This heatmaps make it more apparent how many more rides are taken by male subscribers users. 
+
+# Summary
+In conclusion, it is evident that bike sharing services are very popular in big cities with a vast population.
+
+If I were to keep going with the analysis i would explore:
+1. Trips at the start of the work day and where the trips are ended. 
+2. Average trip duration, by birth year, by gender, and see what the data says. 
