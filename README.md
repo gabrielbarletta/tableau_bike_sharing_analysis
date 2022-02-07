@@ -5,3 +5,6 @@ Throught the analysis we will answer questions like:
 * What area of a city sees the most bikeshare usage?
 * What time of day are bikes used the most and the least?
 * How much are the bikes used and by whom?
+
+
+<img width="996" alt="Screen Shot 2022-02-06 at 9 29 33 PM" src="https://user-images.githubusercontent.com/92552837/152716614-c02be1b0-0fbb-493d-9b7b-76331e6bf345.png">
