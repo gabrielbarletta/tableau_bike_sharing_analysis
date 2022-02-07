@@ -8,3 +8,5 @@ Throught the analysis we will answer questions like:
 
 
 <img width="996" alt="Screen Shot 2022-02-06 at 9 29 33 PM" src="https://user-images.githubusercontent.com/92552837/152716614-c02be1b0-0fbb-493d-9b7b-76331e6bf345.png">
+In the above image we can see the total numbers of users and the breakdown by gender
+
