@@ -1,4 +1,7 @@
 # NYC Bike Sharing Analysis
+
+Link to my tableau story: https://public.tableau.com/shared/XYP3W5HFQ?:display_count=n&:origin=viz_share_link
+
 The main idea of this project is to analyze data from NYC CitiBike and create a presentation to present to investors looking to begin a bikeshare program in Des Moines, Iowa.
 Throught the analysis we will answer questions like:
 * Who uses bikeshare programs?
